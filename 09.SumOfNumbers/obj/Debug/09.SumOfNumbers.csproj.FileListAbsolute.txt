@@ -1,0 +1,6 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\09.SumOfNumbers\bin\Debug\09.SumOfNumbers.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\09.SumOfNumbers\bin\Debug\09.SumOfNumbers.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\09.SumOfNumbers\bin\Debug\09.SumOfNumbers.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\09.SumOfNumbers\obj\Debug\09.SumOfNumbers.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\09.SumOfNumbers\obj\Debug\09.SumOfNumbers.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\09.SumOfNumbers\obj\Debug\09.SumOfNumbers.pdb

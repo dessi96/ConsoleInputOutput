@@ -1,0 +1,5 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.pdb

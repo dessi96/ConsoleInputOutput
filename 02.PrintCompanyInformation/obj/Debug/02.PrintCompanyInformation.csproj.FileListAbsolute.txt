@@ -1,0 +1,6 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb

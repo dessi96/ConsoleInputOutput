@@ -1,0 +1,6 @@
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.exe.config
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.pdb
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.csprojResolveAssemblyReference.cache
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.exe
+D:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.pdb
